@@ -22,11 +22,11 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Bookstore <a name="about-project"></a>
+# 📖 hello-React-frontend <a name="about-project"></a>
 
-This site is built as part of an exercise at Microverse. The site is about a Books, This project is a Library app I created with react js👌.
+This site is built as part of an exercise at Microverse. This will use a Rails backend👌.
 
-**The Bookstore React project** i
+**The hello-React-frontend React project** i
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -78,7 +78,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd my-folder
-  git clone https://github.com/abeltsew/bookstore.git
+  git clone https://github.com/abeltsew/hello-React-frontend.git
 ```
 
 ### Install
